@@ -2,8 +2,8 @@
 This is an application which tracks sudden movements through the camera.
 
 ## Modules Needed
-- pip install opencv-python
-- pip install pyaudio
+- `pip install opencv-python`
+- `pip install pyaudio`
 
 ## Features
 - It can track major movements such as movement of hand.
